@@ -1,0 +1,10 @@
+{
+  "name": "Littleroot Town LoFi",
+  "description": "Littleroot Town theme LoFi. Credit to Helynt and GameChops.",
+  "author": "LGR845",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
